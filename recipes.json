@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Ginisang Munggo",
+        "ingredients": ["munggo", "kamatis", "sibuyas"],
+        "nutrition": {"calories": 350, "protein": 15, "carbs": 50, "fat": 5, "fiber": 12, "sugar": 3},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil munggo for 1 hour. Sauté sib PRETTY_LONG_STRINGuyas and kamatis, add munggo and water. Simmer until soft."
+    },
+    {
+        "name": "Lumpiang Gulay",
+        "ingredients": ["singkamas", "bataw", "patani", "tofu"],
+        "nutrition": {"calories": 300, "protein": 10, "carbs": 45, "fat": 8, "fiber": 10, "sugar": 4},
+        "price": 85.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté tofu, singkamas, bataw, and patani. Wrap in rice paper and serve with calamansi sauce."
+    },
+    {
+        "name": "Ginataang Kalabasa at Sitaw",
+        "ingredients": ["kalabasa", "sitaw", "bawang", "diluted coconut milk"],
+        "nutrition": {"calories": 260, "protein": 6, "carbs": 42, "fat": 6, "fiber": 10, "sugar": 4},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add kalabasa, sitaw, and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Kangkong",
+        "ingredients": ["kangkong", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 180, "protein": 4, "carbs": 20, "fat": 4, "fiber": 6, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Blanch kangkong, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Pechay",
+        "ingredients": ["pechay", "bawang", "kamatis", "luya"],
+        "nutrition": {"calories": 200, "protein": 5, "carbs": 25, "fat": 4, "fiber": 8, "sugar": 3},
+        "price": 50.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add pechay and kamatis. Cook until tender."
+    },
+    {
+        "name": "Buridibud",
+        "ingredients": ["kamote", "gabi", "malunggay", "luya"],
+        "nutrition": {"calories": 270, "protein": 6, "carbs": 45, "fat": 5, "fiber": 10, "sugar": 4},
+        "price": 50.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil luya, add kamote and gabi. Simmer until soft, add malunggay, and cook for 5 minutes."
+    },
+    {
+        "name": "Ginisang Ampalaya",
+        "ingredients": ["ampalaya", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 240, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 70.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add ampalaya and tofu. Add kamatis and cook until tender."
+    },
+    {
+        "name": "Laswa",
+        "ingredients": ["kalabasa", "okra", "talong", "malunggay"],
+        "nutrition": {"calories": 220, "protein": 5, "carbs": 35, "fat": 4, "fiber": 9, "sugar": 3},
+        "price": 50.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil water, add kalabasa, okra, and talong. Add malunggay and cook until tender."
+    },
+    {
+        "name": "Ginataang Malunggay",
+        "ingredients": ["malunggay", "kalabasa", "bawang", "diluted coconut milk"],
+        "nutrition": {"calories": 250, "protein": 6, "carbs": 35, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add kalabasa and diluted coconut milk. Add malunggay and simmer until tender."
+    },
+    {
+        "name": "Ensaladang Labanos",
+        "ingredients": ["labanos", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 190, "protein": 4, "carbs": 25, "fat": 3, "fiber": 7, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Slice labanos, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Sayote",
+        "ingredients": ["sayote", "kamatis", "bawang", "luya"],
+        "nutrition": {"calories": 210, "protein": 5, "carbs": 30, "fat": 4, "fiber": 8, "sugar": 3},
+        "price": 50.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add sayote and kamatis. Cook until tender."
+    },
+    {
+        "name": "Tortang Talong (Vegan)",
+        "ingredients": ["talong", "flour", "kamatis", "sibuyas"],
+        "nutrition": {"calories": 230, "protein": 6, "carbs": 35, "fat": 5, "fiber": 9, "sugar": 3},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Grill talong, mash with munggo flour batter. Pan-fry lightly, serve with kamatis and sibuyas."
+    },
+    {
+        "name": "Ginataang Sitaw",
+        "ingredients": ["sitaw", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 240, "protein": 5, "carbs": 35, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add sitaw and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Okra",
+        "ingredients": ["okra", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 180, "protein": 4, "carbs": 20, "fat": 4, "fiber": 6, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Steam okra, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Kalabasa",
+        "ingredients": ["kalabasa", "sitaw", "bawang", "kamatis"],
+        "nutrition": {"calories": 260, "protein": 6, "carbs": 40, "fat": 5, "fiber": 10, "sugar": 4},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add kalabasa, sitaw, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Adobong Sitaw",
+        "ingredients": ["sitaw", "bawang", "calamansi juice", "soy sauce"],
+        "nutrition": {"calories": 200, "protein": 5, "carbs": 25, "fat": 4, "fiber": 7, "sugar": 2},
+        "price": 50.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Saute bawang, add sitaw, calamansi juice, and soy sauce. Simmer until tender."
+    },
+    {
+        "name": "Sinabawang Kabute",
+        "ingredients": ["kabute", "malunggay", "luya", "sibuyas"],
+        "nutrition": {"calories": 190, "protein": 6, "carbs": 25, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 45.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil luya and sibuyas, add kabute and malunggay. Cook until tender."
+    },
+    {
+        "name": "Ginisang Sigarilyas",
+        "ingredients": ["sigarilyas", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 230, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 80.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add sigarilyas, tofu, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Ensaladang Kamote Tops",
+        "ingredients": ["kamote tops", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 170, "protein": 4, "carbs": 20, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Blanch kamote tops, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginataang Repolyo",
+        "ingredients": ["repolyo", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 220, "protein": 5, "carbs": 30, "fat": 6, "fiber": 7, "sugar": 3},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add repolyo and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Tortang Patola (Vegan)",
+        "ingredients": ["patola", "munggo flour", "kamatis", "sibuyas"],
+        "nutrition": {"calories": 240, "protein": 6, "carbs": 35, "fat": 5, "fiber": 8, "sugar": 3},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Grate patola, mix with munggo flour batter. Pan-fry lightly, serve with kamatis and sibuyas."
+    },
+    {
+        "name": "Ginisang Mustasa",
+        "ingredients": ["mustasa", "bawang", "kamatis", "luya"],
+        "nutrition": {"calories": 190, "protein": 4, "carbs": 25, "fat": 4, "fiber": 7, "sugar": 2},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add mustasa and kamatis. Cook until tender."
+    },
+    {
+        "name": "Ginataang Langka",
+        "ingredients": ["langka", "malunggay", "bawang", "diluted coconut milk"],
+        "nutrition": {"calories": 270, "protein": 6, "carbs": 40, "fat": 6, "fiber": 9, "sugar": 4},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add langka and diluted coconut milk. Add malunggay and simmer until tender."
+    },
+    {
+        "name": "Ensaladang Pipino",
+        "ingredients": ["pipino", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 160, "protein": 3, "carbs": 20, "fat": 3, "fiber": 5, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Slice pipino, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Bataw",
+        "ingredients": ["bataw", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 230, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 80.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add bataw, tofu, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Bulanglang",
+        "ingredients": ["kalabasa", "okra", "malunggay", "luya"],
+        "nutrition": {"calories": 200, "protein": 5, "carbs": 30, "fat": 4, "fiber": 8, "sugar": 3},
+        "price": 45.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil luya, add kalabasa and okra. Add malunggay and cook until tender."
+    },
+    {
+        "name": "Ginataang Munggo",
+        "ingredients": ["munggo", "malunggay", "bawang", "diluted coconut milk"],
+        "nutrition": {"calories": 280, "protein": 10, "carbs": 40, "fat": 6, "fiber": 10, "sugar": 3},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add munggo and diluted coconut milk. Simmer until soft, add malunggay."
+    },
+    {
+        "name": "Ensaladang Talong",
+        "ingredients": ["talong", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 190, "protein": 4, "carbs": 25, "fat": 4, "fiber": 7, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Grill talong, peel, and mash. Toss with kamatis, sibuyas, and calamansi juice."
+    },
+    {
+        "name": "Ginisang Patani",
+        "ingredients": ["patani", "kamatis", "bawang", "luya"],
+        "nutrition": {"calories": 220, "protein": 6, "carbs": 30, "fat": 5, "fiber": 8, "sugar": 3},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add patani and kamatis. Cook until tender."
+    },
+    {
+        "name": "Tortang Okra (Vegan)",
+        "ingredients": ["okra", "munggo flour", "kamatis", "sibuyas"],
+        "nutrition": {"calories": 230, "protein": 6, "carbs": 35, "fat": 5, "fiber": 8, "sugar": 3},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Chop okra, mix with munggo flour batter. Pan-fry lightly, serve with kamatis and sibuyas."
+    },
+    {
+        "name": "Ginataang Pechay",
+        "ingredients": ["pechay", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 210, "protein": 5, "carbs": 25, "fat": 6, "fiber": 7, "sugar": 2},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add pechay and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Mustasa",
+        "ingredients": ["mustasa", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 170, "protein": 4, "carbs": 20, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Blanch mustasa, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Kundol",
+        "ingredients": ["kundol", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 240, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 75.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add kundol, tofu, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Suam na Mais",
+        "ingredients": ["mais", "malunggay", "luya", "sibuyas"],
+        "nutrition": {"calories": 220, "protein": 5, "carbs": 35, "fat": 4, "fiber": 7, "sugar": 3},
+        "price": 45.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Boil luya and sibuyas, add mais and malunggay. Cook until tender."
+    },
+    {
+        "name": "Ginataang Bataw",
+        "ingredients": ["bataw", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 230, "protein": 5, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add bataw and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Sayote",
+        "ingredients": ["sayote", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 180, "protein": 4, "carbs": 25, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 60.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Blanch sayote, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Okra",
+        "ingredients": ["okra", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 240, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 70.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add okra, tofu, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Ginataang Sayote",
+        "ingredients": ["sayote", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 220, "protein": 5, "carbs": 30, "fat": 6, "fiber": 7, "sugar": 3},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add sayote and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Patola",
+        "ingredients": ["patola", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 170, "protein": 4, "carbs": 20, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Slice patola, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    },
+    {
+        "name": "Ginisang Repolyo",
+        "ingredients": ["repolyo", "kamatis", "bawang", "tofu"],
+        "nutrition": {"calories": 230, "protein": 8, "carbs": 30, "fat": 6, "fiber": 8, "sugar": 3},
+        "price": 70.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang, add repolyo, tofu, and kamatis. Cook until tender."
+    },
+    {
+        "name": "Ginataang Okra",
+        "ingredients": ["okra", "bawang", "luya", "diluted coconut milk"],
+        "nutrition": {"calories": 210, "protein": 5, "carbs": 25, "fat": 6, "fiber": 7, "sugar": 2},
+        "price": 55.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Sauté bawang and luya, add okra and diluted coconut milk. Simmer until tender."
+    },
+    {
+        "name": "Ensaladang Bataw",
+        "ingredients": ["bataw", "kamatis", "sibuyas", "calamansi juice"],
+        "nutrition": {"calories": 180, "protein": 4, "carbs": 25, "fat": 3, "fiber": 6, "sugar": 2},
+        "price": 65.00,
+        "dietary": {"vegan": true, "vegetarian": true, "gluten_free": true},
+        "instructions": "Blanch bataw, toss with kamatis, sibuyas, and calamansi juice. Serve fresh."
+    }
+]
